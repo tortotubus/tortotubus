@@ -10,5 +10,5 @@
 |........ |,,\_|.|_/,,| .........|       contacts
 |........ |,,,,,,,,,,,| .........|       --------
 |........ \.uuu...uuu./ .........|       email: conor@conorolive.com
-|________________________________|       pgp: conorolive.com/ceo.asc
+|________________________________|       pgp: conorolive.com/assets/key/ceo.asc
 ```
